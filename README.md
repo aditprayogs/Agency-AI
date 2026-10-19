@@ -4,8 +4,8 @@ A modern, responsive personal portfolio website built with **React.js, Vite, and
 
 ## 🌐 Live Demo
 
-- **Website:** [View Live Demo](https://your-project.vercel.app)
-- **Repository:** [GitHub Repository](https://github.com/USERNAME/REPOSITORY)
+- **Website:** [View Live Demo](https://aditprayogs.tech/agency-ai/)
+- **Repository:** [GitHub Repository](https://github.com/aditprayogs/Agency-AI)
 
 ## 🎨 UI Preview
 
